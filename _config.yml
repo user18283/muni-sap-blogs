@@ -1,0 +1,6 @@
+title: "Muni SAP Blogs"
+description: "Technical blogging about SAP and more."
+author: "Muni"
+theme: minima # a simple built-in theme
+baseurl: "/muni-sap-blogs" # very important: match your repository name
+url: "https://user18283.github.io"

@@ -1,2 +1,1 @@
-# muni-sap-blogs
-muni-sap-blogs
+# My SAP blogs

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome to Muni SAP Blogs"
+title: "Muni SAP Blogs"
 ---
 
 ## Recent Blog Posts

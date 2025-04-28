@@ -1,7 +1,10 @@
 ---
 layout: home
-title: "Welcome to Muni's SAP Blog"
+title: "Welcome to Muni SAP Blogs"
 ---
 
-Hello!  
-This is my collection of technical blogs about SAP.
+## Recent Blog Posts
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
